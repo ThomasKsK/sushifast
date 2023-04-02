@@ -143,3 +143,5 @@ Nous pourrions implémenter un système de log et améliorer l'interface utilisa
 
 == Lien vers notre dépôt :
 https://github.com/MorgadoMathieu/SushiShopSQM/tree/master
+
+https://ThomasKsK.github.io/sushifast
