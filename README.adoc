@@ -144,7 +144,7 @@ Nous pourrions implémenter un système de log et améliorer l'interface utilisa
 == Lien vers nos dépôts :
 https://github.com/MorgadoMathieu/SushiShopSQM/tree/master
 
-https://ThomasKsK.github.io/sushifast
+https://github.com/ThomasKsK/sushifast
 
 == Lien vers notre projet déployé : 
 https://deploiment-sushifast.web.app
